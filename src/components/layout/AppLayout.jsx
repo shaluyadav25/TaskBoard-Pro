@@ -15,8 +15,6 @@ const AppLayout = () => {
     </main>
     </div>
     </div>
-   
-    
     </>
   )
 }
